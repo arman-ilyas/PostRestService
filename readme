@@ -2,7 +2,7 @@ Readme
 
 Post rest service to upload the files to local/remote machine. 
 
-Demo:
+Demo(DECOMMISSIONED):
 http://ec2-54-169-58-9.ap-southeast-1.compute.amazonaws.com:8080/RestServices/fileUpload.html
 
 Please do not upload large files, otherwise it will crash the app
